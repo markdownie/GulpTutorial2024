@@ -1,0 +1,31 @@
+There's many gulp tasks in the gulpfile.js. 
+To run them all, run the command: gulp call-task
+
+https://www.youtube.com/watch?v=1rw9MfIleEg
+
+npm install -g gulp (if not already installed)
+
+then install locally
+
+npm install gulp 
+
+-----
+
+npm init --> inititalise a package.json
+
+npm install --save-dev gulp (gulp is not used in development)
+
+1) It install gulp as a dependecy
+2) Puts it in to the node_modules folder
+3) Adds a reference to the package.json.
+4) Now you can use in in your gulpfile.js
+
+----
+
+Created a src folder.
+
+----
+
+Create gulpfile.js
+
+Modified gulp file examples to run in 2024
