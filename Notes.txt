@@ -7,7 +7,7 @@ To run them all, run the command: gulp call-task
 
 ----
 
-Based on this vide:
+Based on this video:
 
 https://www.youtube.com/watch?v=1rw9MfIleEg
 
