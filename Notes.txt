@@ -1,7 +1,17 @@
 There's many gulp tasks in the gulpfile.js. 
+Run:  gulp --tasks  to see a list of them.
+
+----
+
 To run them all, run the command: gulp call-task
 
+----
+
+Based on this vide:
+
 https://www.youtube.com/watch?v=1rw9MfIleEg
+
+Initial set up:
 
 npm install -g gulp (if not already installed)
 
